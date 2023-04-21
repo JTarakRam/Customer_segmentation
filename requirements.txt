@@ -1,0 +1,7 @@
+pandas 
+numpy 
+matplotlib
+seaborn
+scikit-learn
+warnings
+mpl_toolkits
