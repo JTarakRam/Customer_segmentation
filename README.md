@@ -102,15 +102,14 @@ we can ran some performance to measure the latency, throughput and instance size
 
 The timeline is for this project is 4 days 
 
-data collection, cleaning - 1 day
++ data collection, cleaning - 1 day
 
-pre-precessing and modeling - 1 day
++ pre-precessing and modeling - 1 day
 
-evaluation, and testing - 1 day 
++ evaluation, and testing - 1 day 
 
-deployment - 1 day
++ deployment - 1 day
 
-Total estimated timeline - 15 weeks
 
 ### **Glossary**
 
