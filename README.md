@@ -6,7 +6,9 @@ This project mainly focuses on the customer segmentation system for retail busin
 
 ## **Motivation**
 
-Customer segmentation is essential in every business because it helps segment customers into groups so that we can focus on potential customers. It also helps us identify low-performing areas so that we can improve them. In this competitive market, personalizing marketing strategies is vital to improve customer satisfaction and increase revenue, it follows the STP Framework where segmentation, targeting, and positioning you can know more about customer segemention in the [wikipedia](https://en.wikipedia.org/wiki/Market_segmentation) page.
+Customer segmentation is essential in every business because it helps segment customers into groups so that we can focus on potential customers. It also helps us identify low-performing areas so that we can improve them. 
+
+In this competitive market, personalizing marketing strategies is vital to improve customer satisfaction and increase revenue, it follows the STP Framework where segmentation, targeting, and positioning you can know more about customer segemention in the [wikipedia](https://en.wikipedia.org/wiki/Market_segmentation) page.
 
 ## **Success Metrics**
 
